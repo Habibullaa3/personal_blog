@@ -1,0 +1,10 @@
+main .content h3{
+    font-family: 'Nanum Gothic', sans-serif; 
+    font-weight: 700;
+    font-size: 35px;
+    text-transform: capitalize;
+    margin: 0 25px;
+}
+form {
+    margin-bottom: 25px;
+}

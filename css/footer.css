@@ -1,0 +1,31 @@
+footer {
+    border: 1px solid rgb(218, 215, 215);
+    max-width: 1920px;
+    width: 80%;
+    margin: auto;
+    background-color: rgb(220, 220, 224);
+    padding: 25px 0 50px 0;
+}
+
+.footer-item {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    
+}
+.footer-item p{
+    margin-top: 10px;
+}
+.footer-item i {
+    margin: 3px;
+    font-size: 18px;
+}
+.footer-item span {
+    margin: 5px;
+}
+.footer-item p:nth-child(3){
+    color: rgb(104, 104, 109);
+}
+.footer-item p:nth-child(3) i {
+    font-size: 14px;
+}
