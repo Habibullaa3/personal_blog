@@ -30,6 +30,9 @@ header h1 {
     color: red;
     text-transform: uppercase;
 }
+#section {
+    background-color: #fff;
+}
 nav {
     max-width: 1920px;
     width: 80%;
